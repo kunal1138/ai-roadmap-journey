@@ -20,7 +20,8 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 |-----|-------|--------|
 | Day 1 | Variables, Functions, Operators, Modules | ✅ |
 | Day 2 | Loops, Conditionals, Data Structures | ✅ |
-| Day 3 | Strings, Comprehensions | 🔜 |
+| Day 3 | Strings, Comprehensions, f-strings | ✅ |
+| Day 4 | Functions deep dive | 🔜 |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
