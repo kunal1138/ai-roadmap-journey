@@ -24,7 +24,8 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 4 | args, kwargs, Lambda, Scope, Nested Functions | ✅ |
 | Day 5 | File Handling | ✅ |
 | Day 6 | Exception Handling, try/except, raise | ✅ |
-| Day 7 | Mini Project: To-Do List App | 🔜 |
+| Day 7 | Mini Project: To-Do List App | ✅ |
+| Day 8 | OOP: Classes and Objects | 🔜 |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
