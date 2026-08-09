@@ -11,7 +11,7 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 ## Roadmap Phases
 - ✅ Phase 1 (Months 1-3): Python + Foundations
   - ✅ Week 1 - COMPLETED (7/7 days)
-  - ⏳ Week 2 - OOP: Classes and Objects
+  - ⏳ Week 2 - OOP: Classes, Inheritance, Polymorphism
 - ⏳ Phase 2 (Months 4-6): Machine Learning
 - ⏳ Phase 3 (Months 7-9): Deep Learning
 - ⏳ Phase 4 (Months 10-12): Transformers & GenAI
@@ -27,7 +27,8 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 5 | File Handling | ✅ |
 | Day 6 | Exception Handling, try/except, raise | ✅ |
 | Day 7 | Mini Project: To-Do List App | ✅ |
-| Day 8 | OOP: Classes and Objects | 🔜 |
+| Day 8 | OOP: Classes, Objects, Methods | ✅ |
+| Day 9 | OOP: Inheritance | 🔜 |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
