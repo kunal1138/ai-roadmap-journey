@@ -28,7 +28,7 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 6 | Exception Handling, try/except, raise | ✅ |
 | Day 7 | Mini Project: To-Do List App | ✅ |
 | Day 8 | OOP: Classes, Objects, Methods | ✅ |
-| Day 9 | OOP: Inheritance | 🔜 |
+| Day 9 | OOP: Inheritance (Ben10 Theme) | ✅ |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
