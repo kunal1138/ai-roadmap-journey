@@ -30,7 +30,8 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 8 | OOP: Classes, Objects, Methods | ✅ |
 | Day 9 | OOP: Inheritance (Ben10 Theme) | ✅ |
 | Day 10 | OOP: Polymorphism (Spiderman Multiverse) | ✅ |
-| Day 11 | OOP: Encapsulation | 🔜 |
+| Day 11 | OOP: Encapsulation (Wallet Theme) | ✅ |
+| Day 12 | OOP: Mini Project - Superhero Battle | 🔜 |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
