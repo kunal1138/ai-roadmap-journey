@@ -35,7 +35,7 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 9 | OOP: Inheritance (Ben10 Theme) | ✅ |
 | Day 10 | OOP: Polymorphism (Spiderman Multiverse) | ✅ |
 | Day 11 | OOP: Encapsulation (Wallet Theme) | ✅ |
-| Day 12 | OOP: Mini Project - Superhero Battle | 🔜 |
+| Day 12 | OOP: Mini Project - Superhero Battle | ✅ |
 | Day 13 | NumPy - Arrays, Operations, Indexing | ✅ |
 | Day 14 | Pandas - DataFrame, Operations, Filtering | ✅ |
 | Day 15 | Data Analysis Mini Project | 🔜 |
