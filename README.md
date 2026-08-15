@@ -12,6 +12,10 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 - ✅ Phase 1 (Months 1-3): Python + Foundations
   - ✅ Week 1 - COMPLETED (7/7 days)
   - ⏳ Week 2 - OOP (Day 8✅ Day 9✅ Day 10✅)
+- ⏳ Week 3 - NumPy, Pandas, Data Analysis
+  - ✅ Day 13: NumPy
+  - ✅ Day 14: Pandas
+  - 🔜 Day 15: Data Analysis Project
 - ⏳ Phase 2 (Months 4-6): Machine Learning
 - ⏳ Phase 3 (Months 7-9): Deep Learning
 - ⏳ Phase 4 (Months 10-12): Transformers & GenAI
