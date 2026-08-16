@@ -13,9 +13,10 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
   - ✅ Week 1 - COMPLETED (7/7 days)
   - ✅ Week 2 - COMPLETED (8-12 days)
   - ⏳ Week 3 - NumPy, Pandas, Data Analysis
-    - ✅ Day 13: NumPy
-    - ✅ Day 14: Pandas
-    - 🔜 Day 15: Data Analysis Project
+     - ✅ Day 13: NumPy
+     - ✅ Day 14: Pandas
+     - ✅ Day 15: Data Analysis Project
+     - 🔜 Day 16: SQL Basics
 - ⏳ Phase 2 (Months 4-6): Machine Learning
 - ⏳ Phase 3 (Months 7-9): Deep Learning
 - ⏳ Phase 4 (Months 10-12): Transformers & GenAI
@@ -38,7 +39,8 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 12 | OOP: Mini Project - Superhero Battle | ✅ |
 | Day 13 | NumPy - Arrays, Operations, Indexing | ✅ |
 | Day 14 | Pandas - DataFrame, Operations, Filtering | ✅ |
-| Day 15 | Data Analysis Mini Project | 🔜 |
+| Day 15 | Data Analysis Project - Student Result System | ✅ |
+| Day 16 | SQL Basics | 🔜 |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
