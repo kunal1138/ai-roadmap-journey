@@ -41,6 +41,8 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 14 | Pandas - DataFrame, Operations, Filtering | ✅ |
 | Day 15 | Data Analysis Project - Student Result System | ✅ |
 | Day 16 | SQL Basics | 🔜 |
+| Day 17 | Git & GitHub - Concepts, Branches, PRs | ✅ |
+| Day 18 | Math for AI - Linear Algebra Basics | 🔜 |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
