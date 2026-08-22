@@ -48,6 +48,9 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 17 | Git & GitHub - Concepts, Branches, PRs | ✅ |
 | Day 18 | Math for AI - Linear Algebra Basics | ✅ |
 | Day 19 | Week 3 Mini Project - Gaming Analysis | ✅ |
+| Day 20 | ML Introduction - KNN, Iris Dataset, 100% Accuracy | ✅ |
+| Day 21 | Linear Regression - Study Hours vs Marks | ✅ |
+| Day 22 | Logistic Regression | 🔜 |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
