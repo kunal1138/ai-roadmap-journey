@@ -12,12 +12,16 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 - ✅ Phase 1 (Months 1-3): Python + Foundations
   - ✅ Week 1 - COMPLETED (7/7 days)
   - ✅ Week 2 - COMPLETED (8-12 days)
-  - ⏳ Week 3 - NumPy, Pandas, Data Analysis
-     - ✅ Day 13: NumPy
-     - ✅ Day 14: Pandas
-     - ✅ Day 15: Data Analysis Project
-     - 🔜 Day 16: SQL Basics
-- ⏳ Phase 2 (Months 4-6): Machine Learning
+  - ✅ Week 3 - COMPLETED (13-19 days)
+    - ✅ Day 13: NumPy
+    - ✅ Day 14: Pandas
+    - ✅ Day 15: Data Analysis Project
+    - ✅ Day 16: SQL Basics
+    - ✅ Day 17: Git & GitHub
+    - ✅ Day 18: Math for AI
+    - ✅ Day 19: Gaming Analysis Project
+  - ✅ Week 4 - Machine Learning Starting!
+- 🔄 Phase 2 (Months 4-6): Machine Learning
 - ⏳ Phase 3 (Months 7-9): Deep Learning
 - ⏳ Phase 4 (Months 10-12): Transformers & GenAI
 - ⏳ Phase 5 (Months 13-15): Deployment & Career
@@ -42,7 +46,8 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 15 | Data Analysis Project - Student Result System | ✅ |
 | Day 16 | SQL Basics | 🔜 |
 | Day 17 | Git & GitHub - Concepts, Branches, PRs | ✅ |
-| Day 18 | Math for AI - Linear Algebra Basics | 🔜 |
+| Day 18 | Math for AI - Linear Algebra Basics | ✅ |
+| Day 19 | Week 3 Mini Project - Gaming Analysis | ✅ |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
