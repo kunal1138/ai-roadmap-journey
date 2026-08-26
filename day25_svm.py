@@ -79,8 +79,8 @@ for i, class_name in enumerate(best_model.classes_):
 print("\n===== ALGORITHM COMPARISON =====")
 algorithms = {
     "KNN": KNeighborsClassifier(n_neighbors=3),
-    "Decision Tree": DecisionTreeClassifier(max_depth=3),
-    "Random Forest": RandomForestClassifier(n_estimators=100),
+    "Decision Tree": DecisionTreeClassifier(max_depth=3, random_state=42),
+    "Random Forest": RandomForestClassifier(n_estimators=100, random_state=42),
     "Logistic Regression": LogisticRegression(),
     "SVM": SVC(kernel="linear")
 }
