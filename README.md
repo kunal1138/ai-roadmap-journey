@@ -21,6 +21,12 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
     - ✅ Day 18: Math for AI
     - ✅ Day 19: Gaming Analysis Project
   - ✅ Week 4 - Machine Learning Starting!
+    - ✅ Day 20: KNN - Iris Dataset
+    - ✅ Day 21: Linear Regression
+    - ✅ Day 22: Logistic Regression
+    - ✅ Day 23: Decision Tree
+    - ✅ Day 24: Random Forest
+    - 🔜 Day 25: SVM
 - 🔄 Phase 2 (Months 4-6): Machine Learning
 - ⏳ Phase 3 (Months 7-9): Deep Learning
 - ⏳ Phase 4 (Months 10-12): Transformers & GenAI
@@ -50,7 +56,10 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 19 | Week 3 Mini Project - Gaming Analysis | ✅ |
 | Day 20 | ML Introduction - KNN, Iris Dataset, 100% Accuracy | ✅ |
 | Day 21 | Linear Regression - Study Hours vs Marks | ✅ |
-| Day 22 | Logistic Regression | 🔜 |
+| Day 22 | Logistic Regression - Pass/Fail Prediction | ✅ |
+| Day 23 | Decision Tree - Gaming Rank Prediction | ✅ |
+| Day 24 | Random Forest - Gaming Rank, 100 Trees | ✅ |
+| Day 25 | SVM - Support Vector Machine | 🔜 |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
