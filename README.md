@@ -60,6 +60,8 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 23 | Decision Tree - Gaming Rank Prediction | ✅ |
 | Day 24 | Random Forest - Gaming Rank, 100 Trees | ✅ |
 | Day 25 | SVM - Support Vector Machine | 🔜 |
+| Day 26 | K-Means Clustering - Unsupervised Learning | ✅ |
+| Day 27 | ML Mini Project | 🔜 |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
