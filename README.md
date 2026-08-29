@@ -61,7 +61,9 @@ Become a job-ready Generative AI / LLM Engineer in 12-15 months
 | Day 24 | Random Forest - Gaming Rank, 100 Trees | ✅ |
 | Day 25 | SVM - Support Vector Machine | 🔜 |
 | Day 26 | K-Means Clustering - Unsupervised Learning | ✅ |
-| Day 27 | ML Mini Project | 🔜 |
+| Day 27 | ML Mini Project | ✅ |
+| Day 28 | Model Evaluation - CV, Overfitting | ✅ |
+| Day 29 | House Price Prediction Project | 🔜 |
 
 ## Tools & Resources
 - CodeWithHarry (YouTube - Hindi)
