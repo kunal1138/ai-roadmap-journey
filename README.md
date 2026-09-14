@@ -16,7 +16,7 @@ Become a AI Professional Generative AI / LLM Engineer in 12-15 months
   - ✅ Week 3 - COMPLETED (13-19 days)
 - ✅ Phase 2 (Months 4-6): Machine Learning — COMPLETE!
 - ✅ Phase 3 (Months 7-9): Deep Learning — COMPLETE!
-- ✅ Phase 4 (Months 10-12): Transformers & GenAI — COMPLETE!
+- 🔜 Phase 4 (Months 10-12): Transformers & GenAI — COMPLETE!
 - ⏳ Phase 5 (Months 13-15): Deployment & Career
 
 ## Certifications
